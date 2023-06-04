@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: white;
+}
+.box1 {
+    border: 2px solid grey;
+    width: 40rem;
+    height: 12rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 150px;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    
+}
+.box1 h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+hr {
+    border: 1px solid rgba(134, 132, 132, 0.951);
+    width: 35rem;
+}
+.box2 {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
+
+.btn {
+    border: hidden;
+    background-color: green;
+    padding: 8px 18px 8px 18px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-right: 20px;
+}
+.btnz {
+    border: hidden;
+    background: rgb(49, 46, 46);
+    padding: 8px 50px 8px 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    font-weight: 200;
+}
